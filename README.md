@@ -3,27 +3,22 @@
 ## :star_struck: My experience and projects
 ## :orange_book: Courses
 ## :black_nib: Tools
-    Pycharm
-    Github
-    Microsoft Excel
-    Google Sheets
-    Google Forms
-#### Design
-    Figma
-<details>
-<summary>Others</summary>
-<br>Adobe Illustrator
-<br>Gimp
-<br>Canva
-</details>
+* Pycharm
+* Github
+* Microsoft Excel
+* Google Sheets
+* Google Forms
+* Figma
+* Trello
+* Miro
+* Slack
+* Discord
+* <details>
+    <summary>Others</summary>
+    <br>Adobe Illustrator
+    <br>Gimp
+    <br>Canva
 
-#### Project management    
-    Trello
-#### Brainstorming
-    Miro
-#### Communication
-    Slack
-    Discord
 ## :nerd_face: Blogs and Channels I follow
 
 
