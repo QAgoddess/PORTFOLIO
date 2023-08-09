@@ -3,13 +3,13 @@
 ## :star_struck: My experience and projects
 ## :orange_book: Courses
 ## :black_nib: Tools
-    Pycharm
-    Github
-    Microsoft Excel
-    Google Sheets
-    Google Forms
+Pycharm
+Github
+Microsoft Excel
+Google Sheets
+Google Forms
 ### Design
-    Figma
+Figma
 <details>
 <summary>Others</summary>
 <br>Adobe Illustrator
