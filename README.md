@@ -8,7 +8,7 @@
     Microsoft Excel
     Google Sheets
     Google Forms
-#### Design
+### Design
     Figma
 <details>
 <summary>Others</summary>
@@ -17,11 +17,11 @@
 <br>Canva
 </details>
 
-#### Project management    
+### Project management    
     Trello
-#### Brainstorming
+### Brainstorming
     Miro
-#### Communication
+### Communication
     Slack
     Discord
 ## :nerd_face: Blogs and Channels I follow
