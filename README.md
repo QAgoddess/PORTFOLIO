@@ -17,6 +17,12 @@
 * Gimp
 * Canva
 ## :nerd_face: Blogs and Channels I follow
+* www.flynerd.pl
+* www.testelka.pl
+* www.testerzy.pl
+#### YOUTUBE:
+* @softwaretestingmentor
+* @DareIT
 
 
  
