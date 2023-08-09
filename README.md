@@ -13,11 +13,12 @@
 * Miro
 * Slack
 * Discord
-* <details>
-    <summary>Others</summary>
-    <br>Adobe Illustrator
-    <br>Gimp
-    <br>Canva
+<details>
+<summary>Others</summary>
+<br>Adobe Illustrator
+<br>Gimp
+<br>Canva
+</details>
 
 ## :nerd_face: Blogs and Channels I follow
 
