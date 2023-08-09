@@ -16,6 +16,7 @@
 <br>Gimp
 <br>Canva
 </details>
+
 #### Project management    
     Trello
 #### Brainstorming
