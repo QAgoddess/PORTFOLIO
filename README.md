@@ -9,7 +9,6 @@ My role was to test the application, design tests, create test cases and write d
 then translate test cases into automated tests.
 Tools I used: Pycharm, GitHub, Slack
 Technologies I used: Python, Selenium WebDriver, Robot Framework
-My repos
 
 ## :orange_book: Courses
 
