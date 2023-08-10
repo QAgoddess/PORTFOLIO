@@ -16,17 +16,16 @@ This is how you dropdown.
 <details>
 <summary>Programowanie w języku Python</summary>
 <br>
-<pre>This is how you dropdown.
-</pre>
+since September 2023:<br />
+
 </details>
 <details>
 <summary>Biznes w internecie: od wizji do obsługi klienta</summary>
 <br>
-april 2021:
-<pre>The training included knowledge in the field of e-commerce.
+April 2021:<br />
+The training included knowledge in the field of e-commerce.
 The program: creating a business model, promotion, 
 sales platforms and customer service in digital channels.
-</pre>
 </details>
 
 ## :black_nib: Tools
