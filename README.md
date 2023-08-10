@@ -23,9 +23,10 @@ This is how you dropdown.
 <summary>Biznes w internecie: od wizji do obsługi klienta</summary>
 <br>
 april 2021:
-The training included knowledge in the field of e-commerce.
+<pre>The training included knowledge in the field of e-commerce.
 The program: creating a business model, promotion, 
 sales platforms and customer service in digital channels.
+</pre>
 </details>
 
 ## :black_nib: Tools
