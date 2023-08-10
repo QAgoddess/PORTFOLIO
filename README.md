@@ -1,6 +1,7 @@
 # PORTFOLIO
 ## :point_right: About me
 [My LinkedIn Profile](linkedin.com/in/magdalena-wolin-jagielska-5654b01bb)
+
 ## :star_struck: My experience and projects
 ### Scouts Panel
 Working with the "Scouts Panel" application, which makes it easier for football scouts to searching for players. 
