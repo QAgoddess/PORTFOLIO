@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## :point_right: About me
-[My LinkedIn Profile](linkedin.com/in/magdalena-wolin-jagielska-5654b01bb)
+[My LinkedIn Profile](https://linkedin.com/in/magdalena-wolin-jagielska-5654b01bb)
 
 ## :star_struck: My experience and projects
 ### Scouts Panel
