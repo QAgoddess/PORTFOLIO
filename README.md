@@ -9,6 +9,11 @@ My role was to test the application, design tests, create test cases and write d
 then translate test cases into automated tests.
 Tools I used: Pycharm, GitHub, Slack
 Technologies I used: Python, Selenium WebDriver, Robot Framework
+* [Test Cases Github](https://github.com/QAgoddess/Challenge_portfolio_QAgoddess/tree/main/test_cases)
+* [Test Cases Sheets](https://docs.google.com/spreadsheets/d/1gzxpBdJ1dmLnA78ht1waTi03VlIgH3kVL6HiyHBQU7A/edit?usp=sharing)
+* [Bug reports](https://docs.google.com/spreadsheets/d/1kUO4OlPOH6Vg3v8oKKgs0jsbSExUq-yT_40lf8GwcGg/edit#gid=0)
+* [Challenge repository](https://github.com/QAgoddess/Challenge_portfolio_QAgoddess)
+* [Robot framework repository](https://github.com/QAgoddess/panelscout_robotframework)
 
 ## :orange_book: Courses
 
