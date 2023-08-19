@@ -4,7 +4,7 @@
 
 ## :star_struck: My experience and projects
 ### Scouts Panel
-Working with the "Scouts Panel" application, which makes it easier for football scouts to searching for players. 
+Working with the "Scouts Panel" application, which makes easier searching for players by football scouts. 
 It allows to collect and view players' data and enter new players into the system.
 My role was to test the application, design tests, create test cases and write down errors, 
 then translate test cases into automated tests.
