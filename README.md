@@ -8,8 +8,8 @@ Working with the "Scouts Panel" application, which makes easier searching for pl
 It allows to collect and view players' data and enter new players into the system.
 My role was to test the application, design tests, create test cases and write down errors, 
 then translate test cases into automated tests.
-Tools I used: Pycharm, GitHub, Slack
-Technologies I used: Python, Selenium WebDriver, Robot Framework
+<br>Tools I used: Pycharm, GitHub, Slack
+<br>Technologies I used: Python, Selenium WebDriver, Robot Framework
 * [Test Cases Github](https://github.com/QAgoddess/Challenge_portfolio_QAgoddess/tree/main/test_cases)
 * [Test Cases Sheets](https://docs.google.com/spreadsheets/d/1gzxpBdJ1dmLnA78ht1waTi03VlIgH3kVL6HiyHBQU7A/edit?usp=sharing)
 * [Bug reports](https://docs.google.com/spreadsheets/d/1kUO4OlPOH6Vg3v8oKKgs0jsbSExUq-yT_40lf8GwcGg/edit#gid=0)
