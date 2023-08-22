@@ -74,8 +74,11 @@ sales platforms and customer service in digital channels.
 ## :relaxed: Soft skills
 * working in team
 * communication skills
+* creativity
+* adaptability
 * problem-solving
 * empathy
+* attention to details
 
 ## :black_nib: Tools
 * Pycharm
