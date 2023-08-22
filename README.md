@@ -63,6 +63,12 @@ sales platforms and customer service in digital channels.
 </pre>
 </details>
 
+## :relaxed: Soft skills
+* working in team
+* communication skills
+* problem-solving
+* empathy
+
 ## :black_nib: Tools
 * Pycharm
 * Github
@@ -77,6 +83,7 @@ sales platforms and customer service in digital channels.
 * Adobe Illustrator
 * Gimp
 * Canva
+
 ## :nerd_face: Blogs and Channels I follow
 * www.flynerd.pl
 * www.testelka.pl
