@@ -19,6 +19,14 @@ then translate test cases into automated tests.
 ## :orange_book: Courses
 
 <details>
+<summary>Warsztaty z podstaw testowania</summary>
+<br><pre>
+August<br />
+(FlexDev Academy)<br />
+Working with noticing and bug reporting
+</pre>
+</details>
+<details>
 <summary>Testy Automatyczne w praktyce + Python</summary>
 <br><pre>
 22 June - 3 August 2023:<br />
